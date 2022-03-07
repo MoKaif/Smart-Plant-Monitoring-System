@@ -57,4 +57,5 @@ const setupUI = (user) => {
     userDetailsElement.style.display = "none";
     contentElement.style.display = "none";
   }
+
 };

@@ -9,7 +9,7 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 65%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
@@ -117,8 +117,12 @@ a {
 }
 .fl-text{
   width:50%;
-  font-size: 18px;
+  font-size: 24px;
 
+}
+
+.fl-text p{
+  font-size: 34px;
 }
 .fl-image > img{
   height: 370px;
