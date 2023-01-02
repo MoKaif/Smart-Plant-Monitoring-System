@@ -12,6 +12,4 @@ Technologies used :
  Fardeen Javed Kachawa  
  Siddique Mohammad Kaif  
  Om Mohan Deshmukh  
- Sujal Ganesh Bhatt  
- Smart Plant Monitoring System
- 
+ Sujal Ganesh Bhatt   
